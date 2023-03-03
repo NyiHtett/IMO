@@ -2,6 +2,7 @@
 This assignment was locked Mar 2 at 12:30pm.
 Write a program to solve the following IMO problem.
 
+a^p = b! + p
  
 
 Find all integer solutions to the equation below,
